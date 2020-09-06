@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
             double cant = Double.parseDouble(tempval.getText().toString());
             Spinner spn;
             double valores[][] = {
-                    new double[]{1, 9, 3, 10.763910417, 6768.34687, 75820.984974, 107.639},
+                    new double[]{1, 9, 3, 10.763910417, 6768.34687, 75820.984975, 107.639},
             };
             int de = 0, a = 0;
             double resp = 0;
