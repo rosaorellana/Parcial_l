@@ -57,7 +57,7 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
-    void Convertir(View v) {
+    public void Convertir(View v) {
         try {
             TextView tempval1 = (TextView) findViewById(R.id.txt1);
             TextView tempval2 = (TextView) findViewById(R.id.txt2);
